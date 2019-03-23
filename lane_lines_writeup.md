@@ -62,6 +62,7 @@
 * There are possible division by zero errors if both left and right lanes aren't in the masked area.
 * This only works in well lit conditions and both the lanes are prominate on the road.
 * Possible misclassification of lane segments. Right lane segments were classified as part of the left lane. Also, perpendicular line segments are considered to be part of a lane.
+* Obstruction of lane lines
 
 ### Improvements to your pipeline
 
